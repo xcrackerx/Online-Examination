@@ -1,0 +1,12 @@
+**Developed By Mohd Ibrahim Mallick and Harsh Sharma**
+
+**Instructions**
+- Install the Requirements: pip3 install -r requirements.txt
+- Then, make database migrations: python3 manage.py makemigrations
+- python3 manage.py migrate
+- And finally, run the application: python3 manage.py runserver
+
+For Admin Account, please create one with superuser!
+
+**For Contact Us Page**
+Make changes with the email credentials under settings.py
